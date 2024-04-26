@@ -94,7 +94,7 @@ border-bottom: 1px solid rgba(0, 0, 0, 0.274);
 .baner_box{
     width: 100vw;
     height: 50vw;
-    background-image: url(/goods/scooterman.jpg);
+    background-image: url(.goods/scooterman.jpg);
    background-repeat: no-repeat;
    background-size: cover;
    margin-top: 100px;
@@ -592,6 +592,7 @@ margin-top: -90px;
                     font-size: 30px;
                   }
             }
+<<<<<<< HEAD
                         @media (min-width:1001px) {
                             .header{
                                 display: none;
@@ -997,3 +998,6 @@ color: black;
         display: block;
     }
                     }
+=======
+            
+>>>>>>> 32add41852500997d97865a3577e2babc877d40b
